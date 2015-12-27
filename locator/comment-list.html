@@ -1,0 +1,11 @@
+<form class="comment">
+	<label>Missed me? Leave a comment</label><br>
+	<input type="text" ng-model="commentList.newComment.message"/>
+	<button type="button" class="btn btn-default" ng-click="commentList.addComment()">Submit</button>
+</form>
+
+<div class="commentlist">
+	<div ng-repeat="comment in commentList.comments" ng-style="{color: comment.color}">
+		{{comment.message}}
+	</div>
+</div>

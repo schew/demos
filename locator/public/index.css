@@ -1,0 +1,93 @@
+@font-face {
+	font-family: Alcubierre;
+	src: url("Alcubierre.otf") format("opentype");
+}
+
+@font-face {
+	font-family: Stellar;
+	src: url("Stellar-Regular.otf") format("opentype");
+}
+
+body {
+	font-family: Alcubierre;
+
+	height: 100%;
+	width: 100%;
+}
+
+h1 {
+	margin-top: 7%;
+	font-size: 70px;
+	font-weight: bold;
+	position: absolute;
+	width: 100%;
+}
+
+.background {
+	background-image: url("background.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+h1, h2, form {
+	text-align: center;
+}
+
+.location {
+	margin-top: 22%;
+	color: #fff;
+}
+
+h2 {
+	font-size: 55px;
+}
+
+.comment {
+	font-family: Stellar;
+	position: absolute;
+	bottom: 5%;
+	left: 5%;
+	font-size: 20px;
+}
+
+.commentlist {
+	font-family: Stellar;
+	position: absolute;
+	width: 20%;
+	height: 20%;
+	overflow-y: scroll;
+	bottom: 5%;
+	right: 5%;
+	font-size: 20px;
+}
+
+.commentlist::-webkit-scrollbar {
+    width: 1em;
+}
+ 
+.commentlist::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px #DA0600;
+}
+ 
+.commentlist::-webkit-scrollbar-thumb {
+  background-color: #FF4641;
+  outline: 5px solid #FF4641;
+}
+
+.btn {
+	font-family: Stellar;
+	font-size: 14px;
+	color: #FFF;
+	background-color: #FF4641;
+	border: 0px solid transparent;
+	float: right;
+	margin-left: 7px;
+}
+
+.btn:hover {
+	background-color: #FFEAEA;
+	color: #FF4641;
+}

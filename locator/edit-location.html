@@ -1,0 +1,15 @@
+<div ng-repeat="location in editLocation.locations">
+	{{location.place}}
+	<button ng-click="editLocation.removeLocation(location)">X</button>
+</div>
+
+<form>
+	<label>Update location</label>
+	<input type="text" ng-model="editLocation.newLocation.place"/>
+	<button ng-click="editLocation.addLocation()">Submit</button>
+</form>
+
+<div ng-repeat="comment in editLocation.comments">
+	{{comment.message}}
+	<button ng-click="editLocation.removeComment(comment)">X</button>
+</div>
