@@ -1,0 +1,143 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "3ff6557823172e7aae687bb3e849900ed38f0a31.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/3ff6557823172e7aae687bb3e849900ed38f0a31.js?meteor_js_resource=true",
+      "size": 739952,
+      "hash": "3ff6557823172e7aae687bb3e849900ed38f0a31"
+    },
+    {
+      "path": "68edf55088fabe319e6d5dbeca8bec8acede57f2.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/68edf55088fabe319e6d5dbeca8bec8acede57f2.css?meteor_css_resource=true",
+      "size": 121918,
+      "hash": "68edf55088fabe319e6d5dbeca8bec8acede57f2"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+      "size": 20127,
+      "hash": "86b6f62b7853e67d3e635f6512a5a5efc58ea3c3"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+      "size": 108738,
+      "hash": "de51a8494180a6db074af2dee2383f0a363c5b08"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+      "size": 45404,
+      "hash": "44bc1850f570972267b169ae18f1cb06b611ffa2"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
+      "size": 23424,
+      "hash": "278e49a86e634da6f2a02f3b47dd9d2a8f26210f"
+    },
+    {
+      "path": "packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
+      "size": 18028,
+      "hash": "ca35b697d99cae4d1b60f2d60fcd37771987eb07"
+    },
+    {
+      "path": "app/Alcubierre.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/Alcubierre.otf",
+      "size": 38512,
+      "hash": "7f59e4c4981baf2da0dbc9ef3ac3a8fb719d5dfd"
+    },
+    {
+      "path": "app/Stellar-Bold.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/Stellar-Bold.otf",
+      "size": 35516,
+      "hash": "e1fa04ef88733a7f2afbee8962f99c7cf8cd130d"
+    },
+    {
+      "path": "app/Stellar-Medium.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/Stellar-Medium.otf",
+      "size": 34996,
+      "hash": "0a9079a43fa0f8f64153fcc28a68400f365628b3"
+    },
+    {
+      "path": "app/Stellar-Regular.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/Stellar-Regular.otf",
+      "size": 19972,
+      "hash": "3ab050035155c28b791675734d145cb2427a5ada"
+    },
+    {
+      "path": "app/Stellar-light.otf",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/Stellar-light.otf",
+      "size": 19420,
+      "hash": "de769c3fae30a2a157089cb461dd1ec7e529cecb"
+    },
+    {
+      "path": "app/background.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/background.png",
+      "size": 130354,
+      "hash": "b4b27c044a14e5a8ee123be31e65d4937a06a147"
+    },
+    {
+      "path": "app/index.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/index.css",
+      "size": 1438,
+      "hash": "420b2ff0b06e85fe3b590e1f8a481aac759753bd"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "aa801855a7cbed1abc4d307f9148b7bc1d1b95a1"
+    },
+    {
+      "path": "body.html",
+      "where": "internal",
+      "type": "body",
+      "hash": "894c78da0ec2af0d26c77415827bdab694694152"
+    }
+  ]
+}
