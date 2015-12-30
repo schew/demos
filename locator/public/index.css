@@ -37,12 +37,16 @@ h1, h2, form {
 }
 
 .location {
-	margin-top: 22%;
+	position: absolute;
+	height: 100%;
+	width: 100%;
 	color: #fff;
 }
 
 h2 {
 	font-size: 55px;
+	position: relative;
+	top: 44%;
 }
 
 .comment {

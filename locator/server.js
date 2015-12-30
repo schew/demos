@@ -15,11 +15,9 @@ if (Meteor.isServer) {
 		}
 
 		if (Comments.find().count() === 0) {
-			var comments = [
-				{'message': 'dummy'}
-			];
+			// var comments = [];
 
-			Comments.insert(comments[0]);
+			// Comments.insert(comments[0]);
 		}
 	});
 }
